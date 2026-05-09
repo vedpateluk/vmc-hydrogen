@@ -38,7 +38,7 @@ This project explores these techniques in increasingly high-dimensional systems,
 
 ## Physics Background
 
-The variational principle states that for a trial wavefunction \(\psi_T\),
+The variational principle states that for a trial wavefunction $$\psi_T\$$,
 
 $$E[\psi_T]=\frac{\langle \psi_T | H | \psi_T \rangle}{\langle \psi_T | \psi_T \rangle}$$
 
