@@ -132,10 +132,8 @@ The estimated bond length agrees closely with the expected physical value.
 
 ```text
 src/        Core simulation code
-scripts/    Reproducible execution scripts
 figures/    Generated plots and visualisations
 report/     Full written report
-notebooks/  Exploratory analysis
 ```
 
 ---
