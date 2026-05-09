@@ -46,13 +46,13 @@ minimising the expectation value over the variational parameters gives an approx
 
 Expectation values are estimated numerically using Monte Carlo integration, with configurations sampled from the probability density
 
-\rho(q)=|\psi_T(q)|^2
+$$\rho(q)=|\psi_T(q)|^2$$
 
 using the Metropolis algorithm.
 
 A proposed move is accepted with probability
 
-P(q\rightarrow q')=\min\left(1,\frac{\rho(q')}{\rho(q)}\right)
+$$P(q\rightarrow q')=\min\left(1,\frac{\rho(q')}{\rho(q)}\right)$$
 
 ---
 
@@ -80,7 +80,7 @@ The harmonic oscillator was used as a validation system for the Metropolis sampl
 
 A variational wavefunction ansatz of the form
 
-\psi(\mathbf{r})=e^{-\theta |\mathbf{r}|}
+$$\psi(\mathbf{r})=e^{-\theta |\mathbf{r}|}$$
 
 was used to approximate the ground-state wavefunction of the hydrogen atom.
 
@@ -98,7 +98,7 @@ The hydrogen molecule calculation extended the system to a six-dimensional confi
 
 The resulting molecular energy curve was fitted to the Morse potential:
 
-V(r)=D\left(1-e^{-a(r-r_0)}\right)^2-D+2E_{\mathrm{single}}
+$$V(r)=D\left(1-e^{-a(r-r_0)}\right)^2-D+2E_{\mathrm{single}}$$
 
 Estimated parameters:
 
