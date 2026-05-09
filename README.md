@@ -151,7 +151,7 @@ pip install -r requirements.txt
 Example:
 
 ```bash
-python scripts/run_hydrogen_molecule.py
+python src/run_hydrogen_molecule.py
 ```
 
 ---
