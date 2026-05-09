@@ -108,6 +108,8 @@ Dissociation energy:  D  = 0.137 ± 0.003
 Morse parameter:      a  = 1.24 ± 0.02
 ```
 
+Uncertainties are estimated using sampled local-energy standard errors. Since Metropolis sampling produces correlated Markov chains, these uncertainties may underestimate the true statistical error.
+
 The estimated bond length agrees closely with the expected physical value.
 
 ---
