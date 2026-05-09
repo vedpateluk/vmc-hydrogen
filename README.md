@@ -124,7 +124,7 @@ The estimated bond length agrees closely with the expected physical value.
 
 ### Hydrogen Molecule Density Projection
 
-![Hydrogen Molecule Density](figures/Heatmap%H2%2-.png)
+![Hydrogen Molecule Density](figures/Heatmap%20H2%202-.png)
 
 ---
 
