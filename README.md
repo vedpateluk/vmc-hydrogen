@@ -120,11 +120,11 @@ The estimated bond length agrees closely with the expected physical value.
 
 ### Hydrogen Atom Ground-State Density
 
-![Hydrogen Atom Density](figures/hydrogen_atom_density.png)
+![Hydrogen Atom Density](figures/heatmap_H1_3.png)
 
 ### Hydrogen Molecule Density Projection
 
-![Hydrogen Molecule Density](figures/hydrogen_molecule_density.png)
+![Hydrogen Molecule Density](figures/Heatmap_H2_2-.png)
 
 ---
 
